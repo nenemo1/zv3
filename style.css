@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+p{
+    color:white;
+}
+
+.rofl{
+    font-family: cursive;
+}
+
+.rofl:hover{
+    color:lightblue;
+}
+
+.headtext{
+    color:black;
+}
+
+div a{
+    border:1px solid white;
+    padding:10px;
+    text-decoration: none;
+    margin:65px;
+    font-size: 30px;
+}
+
+div{
+    text-align:center;
+}
+
+header{
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size:30px;
+    font-family: monospace;
+    border:3px white solid;
+}
+
+main{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+a{
+    color:grey;
+}
+
+a:hover{
+    font-size:20px;
+    color:#9e9999;
+}
+
+h2{
+    color:white;
+    text-align: center;
+}
+
+.films{
+    color:white;
+    font-size:20px;
+}
